@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	userpin := "1204"
+	userpin := "2006"
 	var pin string
 
 	for percobaan := 1; percobaan <= 2; percobaan++  {
