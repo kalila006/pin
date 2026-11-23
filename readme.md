@@ -1,8 +1,12 @@
-*.exe
-*.out
+## deskripsi
+Repository ini digunakan untuk menyimpan tugas praktikum git.
 
-*.log
+## file
+- pin.go ; program menggunakan bahasa Go.
+- readme.md ; dokumentasi repository
 
-*.tmp
+## Nama
+kalila
 
-.env
+## NIM
+nim 
