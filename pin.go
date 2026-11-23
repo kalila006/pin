@@ -3,10 +3,10 @@ package main
 import "fmt"
 
 func main() {
-	userpin := "2006"
+	userpin := "0630"
 	var pin string
 
-	for percobaan := 1; percobaan <= 2; percobaan++  {
+	for percobaan := 1; percobaan <= 3; percobaan++  {
 		fmt.Print("masukan pin anda: ")
 	    fmt.Scanln(&pin)
 		if userpin == pin {
@@ -15,7 +15,7 @@ func main() {
 
 		}
 		fmt.Println("pin salah")
-		if percobaan == 2 {
+		if percobaan == 3 {
 			fmt.Println("akses anda gagal")
 		}
 	
