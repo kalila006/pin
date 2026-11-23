@@ -1,0 +1,13 @@
+
+## compiled Go applications
+*.exe
+*.out
+
+## log files
+*.log
+
+## temporary files
+*.tmp 
+
+## Environment secrets
+.env
