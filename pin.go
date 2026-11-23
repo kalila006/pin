@@ -15,7 +15,7 @@ func main() {
 
 		}
 		fmt.Println("pin salah")
-		if percobaan == 3 {
+		if percobaan == 2 {
 			fmt.Println("akses di blokir")
 		}
 	
